@@ -1,0 +1,3 @@
+#!/bin/bash
+# Deletes the file betty in the /tmp directory
+rm /tmp/betty
