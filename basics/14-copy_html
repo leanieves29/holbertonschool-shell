@@ -1,0 +1,3 @@
+#!/bin/bash
+# Copies HTML files from the current directory to the parent directory, only if missing or newer there
+cp -u *.html ..
