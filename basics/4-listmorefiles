@@ -1,0 +1,3 @@
+#!/bin/bash
+# Displays current directory contents, including hidden files, in a long format
+ls -la
