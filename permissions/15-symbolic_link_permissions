@@ -1,3 +1,2 @@
 #!/bin/bash
-# Changes the owner and the group owner of the symbolic link _hello to vincent and staff
 chown -h vincent:staff _hello

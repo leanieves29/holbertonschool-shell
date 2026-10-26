@@ -1,3 +1,2 @@
 #!/bin/bash
-# Prints the type of the file named iamafile located in /tmp
 file /tmp/iamafile

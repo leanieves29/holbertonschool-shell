@@ -1,3 +1,2 @@
 #!/bin/bash
-# Adds execution permission to everybody on the file hello
 chmod a+x hello
