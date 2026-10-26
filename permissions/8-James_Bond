@@ -1,0 +1,3 @@
+#!/bin/bash
+# Sets the permission of the file hello: nothing for owner and group and all for others
+chmod 007 hello
